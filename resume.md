@@ -11,7 +11,7 @@
 * 187 av. Général Leclerc, 35700 Rennes
 * 06 95 72 76 76 | <sebastien.castiel@gmail.com>
 * 28 ans, célibataire, permis B
-* [Version PDF](Sébastien Castiel – Développeur web full-stack.pdf) - [Source](https://github.com/scastiel/my-resume)
+* [Version PDF](./sebastien-castiel--developpeur-web-full-stack.pdf) - [Source](https://github.com/scastiel/my-resume)
 
 Passionné par les **challenges techniques**, développer signifie également pour moi participer à l'**ensemble** de la création d'un produit ou d'une fonctionnalité : de la compréhension du **besoin** client/utilisateur, jusqu'à la réponse à la question « mon développement a-t-il répondu au **problème** de l'utilisateur ? ». Sensible aux problématiques du développement centré utilisateur et à la philosophie Lean Startup, je suis convaincu que ces concepts peuvent et devraient s'appliquer dans n’importe quel projet de développement.
 
