@@ -20,6 +20,10 @@
 		margin-bottom: 0.4cm;
 	}
 
+	ul:nth-child(5) li:last-child {
+		display: none;
+	}
+
 	h1 {
 		margin: 0 0 0 0.5cm;
 		line-height: 0.6cm;
@@ -79,6 +83,7 @@
 	ul:nth-child(5) {
 		padding-left: 4.36cm;
 		margin-bottom: 1cm;
+		font-size: 10px;
 	}
 
 	h1 {
