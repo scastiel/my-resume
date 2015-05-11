@@ -37,7 +37,7 @@ Passionné par les **challenges techniques**, développer signifie également po
   * Technologies :
     - Site : Node.js, ReactJS, MongoDB, hébergé chez Heroku.
     - Appli iOS : langage Swift, migration en cours vers React Native.
-  * Code source disponible prochainement sur GitHub, en attendant je peux donner l'accès à un dépôt privé.
+  * Code source disponible sur [GitHub](https://github.com/scastiel/suivi.co).
 
 ### eBook « Redécouvrir Javascript avec Node.js » *(2013-2014)*
   
