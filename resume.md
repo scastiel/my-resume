@@ -22,12 +22,12 @@ Passionné par les **challenges techniques**, développer signifie également po
 * **Front-end** : HTML ☆☆☆, CSS ☆☆☆, JavaScript ☆☆☆, ReactJS ☆
 * **UX** : sensible aux problématiques d'ergonomie et de conception centrée utilisateur
 * **Mobile** : iOS (langage Swift ☆), React Native ☆
-* **Divers** : Git ☆☆☆, test unitaire ☆☆
+* **Divers** : Git ☆☆, méthodes agiles (Scrum ☆☆), test unitaire ☆☆
 
 ## Langues
 
-* **Anglais** : capacité professionnelle complète
-* **Espagnol** : scolaire
+* **Anglais** : capacité professionnelle complète (TOEIC : 855)
+* **Espagnol** : notions
 
 ## Projets personnels
 
