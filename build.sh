@@ -12,8 +12,8 @@ if [ ! -d "$destdir" ]; then
 	exit 1
 fi
 
-cp style.css "$destdir"
-mkdir -p "$destdir/fr"
-pandoc resume-fr.md -T "Sébastien Castiel – Développeur web full-stack" -c "../style.css" -s -o "$destdir/fr/index.html"
-mkdir -p "$destdir/en"
-pandoc resume-en.md -T "Sebastien Castiel – Full-stack web developer" -c "../style.css" -s -o "$destdir/en/index.html"
+mkdir -p public/fr
+pandoc resume-fr.md -T "Sébastien Castiel – Développeur web full-stack" -c ../style.css -s -o public/fr/index.html
+mkdir -p public/en
+pandoc resume-en.md -T "Sebastien Castiel – Full-stack web developer" -c ../style.css -s -o public/en/index.html
+cp -r public/* "$destdir"
