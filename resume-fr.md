@@ -11,7 +11,7 @@
 * 187 av. Général Leclerc, 35700 Rennes
 * 06 95 72 76 76 | <sebastien.castiel@gmail.com>
 * 28 ans, célibataire, permis B
-* [Version PDF](./sebastien-castiel--developpeur-web-full-stack.pdf) - [Source](https://github.com/scastiel/my-resume)
+* [Version PDF](./sebastien-castiel--full-stack-web-developer.pdf) - [Source](https://github.com/scastiel/my-resume)
 
 Passionné par les **challenges techniques**, développer signifie également pour moi participer à l'**ensemble** de la création d'un produit ou d'une fonctionnalité : de la compréhension du **besoin** client/utilisateur, jusqu'à la réponse à la question « mon développement a-t-il répondu au **problème** de l'utilisateur ? ». Sensible aux problématiques du développement centré utilisateur et à la philosophie Lean Startup, je suis convaincu que ces concepts peuvent et devraient s'appliquer dans n’importe quel projet de développement.
 
@@ -32,7 +32,7 @@ Passionné par les **challenges techniques**, développer signifie également po
 ## Projets personnels
 
 ### Suivi.co *(depuis 2015)*
-  
+
   * [Site](http://suivi.co) et application de suivi de colis multi-transporteurs
   * Technologies :
     - Site : Node.js, ReactJS, MongoDB, hébergé chez Heroku.
@@ -40,15 +40,15 @@ Passionné par les **challenges techniques**, développer signifie également po
   * Code source disponible sur [GitHub](https://github.com/scastiel/suivi.co).
 
 ### eBook « Redécouvrir Javascript avec Node.js » *(2013-2014)*
-  
+
   * Livre électronique gratuit et libre d'initiation à Node.js. Disponible sur [GitHub](https://github.com/scastiel/decouvrir-nodejs).
   * En complément, création d'un [blog](http://www.decouvrir-nodejs.fr) proposant des articles techniques consacrés à Node.js.
 
 ## Expériences professionnelles
 
 ### Ingénieur R&D, Ubiflow *(Rennes, depuis 2012)*
-  - Lead-développeur sur l'offre de référencement local SeFaireConnaitre : développement de nouvelles fonctionnalités, maintenance de l'existant, adaptations pour la gestion de nouveaux clients, le tout en mode agile, en étroite collaboration avec le responsable produit. 
-  - Participation également à la maintenance des produits existants et l'architecture technique d'Ubiflow, ainsi qu'au traitement de la dette technique. 
+  - Lead-développeur sur l'offre de référencement local SeFaireConnaitre : développement de nouvelles fonctionnalités, maintenance de l'existant, adaptations pour la gestion de nouveaux clients, le tout en mode agile, en étroite collaboration avec le responsable produit.
+  - Participation également à la maintenance des produits existants et l'architecture technique d'Ubiflow, ainsi qu'au traitement de la dette technique.
   - Technologies : PHP, MySQL, Symfony, HTML/CSS, JavaScript.
 
 ### Consultant junior CRM, CGI *(ex-Logica, Rennes, 2010-2012)*
@@ -67,7 +67,7 @@ Passionné par les **challenges techniques**, développer signifie également po
   - Spécialité traitement des données et modélisation mathématique.
 
 ### Baccalauréat scientifique *(2005)*
-  - Lycée de la Venise Verte, Niort. Mention assez bien. 
+  - Lycée de la Venise Verte, Niort. Mention assez bien.
 
 ## Autres activités et centres d'intérêt
 

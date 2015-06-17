@@ -11,7 +11,7 @@
 * 187 av. General Leclerc, 35700 Rennes, France
 * +33 6 95 72 76 76 | <sebastien.castiel@gmail.com>
 * Age: 28, single, driving licence
-* [PDF version](./sebastien-castiel--developpeur-web-full-stack.pdf) - [Source](https://github.com/scastiel/my-resume)
+* [PDF version](./sebastien-castiel--full-stack-web-developer.pdf) - [Source](https://github.com/scastiel/my-resume)
 
 Fascinated by **technical challenges**, I strongly believe that a developer must be part of **every** phase of a product or feature creation: from the understanding of the user's **needs**, to the answer to the question "does my development respond to the user's **problem**?". Concerned about user-centered development and the Lean Startup philosophy, I'm convinced that these concepts can and should apply in every development project.
 
